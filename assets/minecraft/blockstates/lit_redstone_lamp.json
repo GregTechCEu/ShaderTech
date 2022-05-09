@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "bot_all": "blocks/redstone_lamp_frame",
+      "top_all": "blocks/redstone_lamp_top",
+      "particle": "blocks/redstone_lamp_frame"
+    },
+    "model": "greg_block_all",
+    "darken_model": "-0.5",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
