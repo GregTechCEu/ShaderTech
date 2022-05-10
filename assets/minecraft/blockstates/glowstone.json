@@ -1,0 +1,6 @@
+{
+  "parent": "gregtech:block/no_shade_cube_all",
+  "textures": {
+    "all": "blocks/glowstone"
+  }
+}

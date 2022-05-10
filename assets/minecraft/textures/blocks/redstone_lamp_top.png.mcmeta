@@ -1,10 +1,9 @@
 {
-    "ctm": {
-        "ctm_version": 1,
-        "layer": "BLOOM",
-        "gregtech": true,
-        "extra": {
-            "light": 8
-        }
+  "ctm": {
+    "ctm_version": 1,
+    "layer": "BLOOM",
+    "extra": {
+      "light": 8
     }
+  }
 }
