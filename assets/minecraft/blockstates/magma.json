@@ -3,7 +3,7 @@
   "defaults": {
     "textures": {
       "bot_all": "blocks/magma",
-      "top_all": "blocks/magma_top",
+      "top_all": "blocks/magma_bloom",
       "particle": "blocks/magma"
     },
     "model": "layered_cube_all_2",

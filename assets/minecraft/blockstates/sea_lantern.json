@@ -2,12 +2,11 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "bot_all": "blocks/redstone_lamp_on",
-      "top_all": "blocks/redstone_lamp_on_bloom",
-      "particle": "blocks/redstone_lamp_on"
+      "bot_all": "blocks/sea_lantern",
+      "top_all": "blocks/sea_lantern_bloom",
+      "particle": "blocks/sea_lantern"
     },
     "model": "layered_cube_all_2",
-    "darken_model": "-0.5",
     "uvlock": true
   },
   "variants": {
