@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "bot_all": "blocks/redstone_block",
+      "top_all": "blocks/redstone_block_bloom"
+    },
+    "model": "layered_cube_all_2",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
